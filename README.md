@@ -12,7 +12,7 @@ A cybersecurity professional based in Riyadh, specializing in infrastructure pro
 
 ### 📌 Connect With Me:
 * **X (Twitter):** [@Omar_Cyber7](https://x.com/Omar_Cyber7)
-* **LinkedIn:** (https://www.linkedin.com/in/omar-al-ghamdi-)
+* * **LinkedIn:** [Omar Alghamdi](https://www.linkedin.com/in/omar-al-ghamdi-)
 
 ---
 *This space is dedicated to documenting SOC Use Cases, Home Lab configurations, and Blue Team defensive methodologies.*
