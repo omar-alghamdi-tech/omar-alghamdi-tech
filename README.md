@@ -7,6 +7,7 @@ A cybersecurity professional based in Riyadh, specializing in infrastructure pro
 ###  Skills & Expertise:
 * **Security Operations (SOC):** Log monitoring and analysis, incident response, and detection engineering.
 * **Infrastructure & Home Labs:** Building virtual environments , network analysis, and firewall configuration.
+* 
 **Certifications:**
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
