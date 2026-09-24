@@ -4,13 +4,14 @@
 
 A cybersecurity professional based in Riyadh with hands-on experience in government Security Operations Center (SOC) environments. I specialize in infrastructure protection, SIEM alert analysis, and digital threat hunting. I am dedicated to continuously building defensive methodologies and optimizing security workflows.
 
-###  Skills & Expertise
+### Skills & Expertise
 
-* **Security Operations (SOC):** SIEM log monitoring and analysis (IBM QRadar), incident response triage, and proactive threat hunting.
-* **Infrastructure & Blue Teaming:** Deploying virtualized home labs, network traffic analysis, and firewall log auditing.
-* **Workflow & Process Engineering:** Designing corporate operational workflows, swimlane flowcharts (Visio/Draw.io), and structured incident response playbooks.
+* **Security Operations (SOC) & SIEM:** Advanced log monitoring, alert triage, and writing custom queries (AQL) using IBM QRadar.
+* **Threat Hunting & Incident Response:** Proactive hunting for network anomalies, analyzing endpoint telemetry (Sysmon, Windows Event Logs), and executing structured incident response playbooks.
+* **Network Security & Defense:** Firewall log auditing, network traffic analysis, and detecting lateral movement or brute-force attempts.
+* **Vulnerability & Threat Intelligence:** Correlating IoCs with network traffic, identifying security gaps, and understanding modern attack vectors (e.g., OS Credential Dumping, SMB Exploitation).
 
-###  Certifications
+### Certifications
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-0055A5?style=for-the-badge&logo=comptia&logoColor=white)
