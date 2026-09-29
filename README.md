@@ -21,7 +21,7 @@ A cybersecurity professional based in Riyadh with hands-on experience in governm
 
 ---
 
-### 📊 SOC & Threat Hunting Portfolio
+###  SOC & Threat Hunting Portfolio
 
 | Lab & Documentation | Attack Vector / Tool | Detection Focus |
 |---------------------|----------------------|-----------------|
@@ -31,6 +31,6 @@ A cybersecurity professional based in Riyadh with hands-on experience in governm
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 * **X (Twitter):** [@Omar_Cyber7](https://x.com/Omar_Cyber7)
 * **LinkedIn:** [Omar Alghamdi](https://www.linkedin.com/in/omar-al-ghamdi-)
