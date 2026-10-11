@@ -1,17 +1,17 @@
-# Hi, I'm Omar Alghamdi 👋
+# Hi, I'm Omar Alghamdi 
 
 **Cybersecurity Specialist | SOC Analyst | Incident Response & Threat Hunting**
 
 A cybersecurity professional based in Riyadh with hands-on experience in government Security Operations Center (SOC) environments. I specialize in SIEM alert analysis, threat hunting, and turning attack simulations into practical detection logic. Every lab here follows the same approach: **simulate the attack, hunt it in the logs, then write the detection.**
 
-### 🛠️ Skills & Expertise
+###  Skills & Expertise
 
 - **Security Operations (SOC) & SIEM:** Log monitoring, alert triage, and writing custom AQL queries and correlation rules in IBM QRadar.
 - **Threat Hunting & Incident Response:** Hunting through endpoint telemetry (Sysmon, Windows Event Logs) and following structured incident response playbooks.
 - **Network Security & Defense:** Firewall log auditing, traffic analysis, and detecting brute-force attempts and lateral movement.
 - **Detection Engineering:** Mapping attacks to MITRE ATT&CK and translating findings into Sigma, AQL, and KQL detection rules.
 
-### 🎓 Certifications
+###  Certifications
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-0055A5?style=for-the-badge&logo=comptia&logoColor=white)
@@ -21,7 +21,7 @@ A cybersecurity professional based in Riyadh with hands-on experience in governm
 
 ---
 
-### 🔬 SOC & Threat Hunting Portfolio
+###  SOC & Threat Hunting Portfolio
 
 | Lab & Documentation | Attack / Focus | MITRE ATT&CK | Detection |
 |---|---|---|---|
@@ -29,7 +29,7 @@ A cybersecurity professional based in Riyadh with hands-on experience in governm
 | [LSASS Credential Dumping](https://github.com/omar-alghamdi-tech/lsass-credential-dumping-lab) | LSASS memory dump via Task Manager | T1003.001 | Sysmon Event ID 11 + Sigma, AQL & KQL rules |
 | [QRadar AQL Cheat Sheet](https://github.com/omar-alghamdi-tech/qradar-aql-firewall-cheatsheet) | Firewall log analysis | — | 9 ready-to-use AQL hunting queries |
 
-### 🚧 Currently Working On
+###  Currently Working On
 
 - New labs covering more credential access and lateral movement techniques (e.g., Kerberoasting, Pass-the-Hash)
 - A collection of Sigma detection rules mapped to MITRE ATT&CK
